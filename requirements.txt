@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+anyio
+mcp
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+chromadb
+requests
+google-generativeai
+pypdf
